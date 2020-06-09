@@ -1,1 +1,1 @@
-# project-email-scheduler
+# E-mail Scheduler
